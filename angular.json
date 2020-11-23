@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-bootcamp"
+    }
+  },
+  "defaultProject": "angular-bootcamp",
+  "cli": {
+    "analytics": false
+  }
 }
